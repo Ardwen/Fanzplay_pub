@@ -1,0 +1,15 @@
+.input-group{
+    text-align: center;
+    justify-content: center;
+}
+
+.buttonGroup{
+    justify-content: space-evenly;
+    display: flex;
+    padding: 2%;
+}
+
+.buttonGroup > Button{
+    background-color: cadetblue;
+    border-color: cadetblue;
+}

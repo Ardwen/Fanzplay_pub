@@ -1,0 +1,17 @@
+.background{
+    background-image: url("../background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.overlay{
+    padding: 3vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    min-height: 100vh;
+}
+
+.title{
+    color: white;
+}

@@ -1,0 +1,13 @@
+.gameCards{
+    padding: 3vh 3vw;
+}
+
+.gameCards > .card-img, .card-img-bottom, .card-img-top{
+    width: 30%;
+}
+
+#addNewGame{
+    background-color: #afe607;
+    border-color: #AFE607;
+    margin-top: 2vh;
+}
