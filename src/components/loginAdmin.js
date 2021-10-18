@@ -28,7 +28,7 @@ function LoginAdmin(props) {
   return (
     <div className="logindiv" >
     <img
-    src="asset/fanzplay-logo.png"
+    src="https://firebasestorage.googleapis.com/v0/b/fanzplay.appspot.com/o/logo.png?alt=media&token=9333461e-ec5d-4854-acb9-7c1fe40a731e"
     width="100"
     height="100"
     className="d-inline-block align-top"

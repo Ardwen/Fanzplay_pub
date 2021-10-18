@@ -6,9 +6,9 @@ import { Container,Row,Col } from 'react-bootstrap';
 import './game.css';
 
 const reward_list = [
-  { id: 1, title: '15% off any NCAA team store purchase.', expire:"August 31, 2020", brand:"asset/brand1.png" },
-  { id: 2, title: 'Half off any lunch or dinner entree.',expire:"December 31, 2020" ,brand:"asset/brand2.png" },
-  { id: 3, title: '$15 off any purchase of $100 or more.', expire:"May 31, 2020",brand:"asset/brand3.png" }
+  { id: 1, title: '15% off any NCAA team store purchase.', expire:"August 31, 2020", brand:"https://firebasestorage.googleapis.com/v0/b/fanzplay.appspot.com/o/brand1.png?alt=media&token=3a4cc142-407e-40c9-8dd4-e5d18da777b2" },
+  { id: 2, title: 'Half off any lunch or dinner entree.',expire:"December 31, 2020" ,brand:"https://firebasestorage.googleapis.com/v0/b/fanzplay.appspot.com/o/brand2.png?alt=media&token=3d22a153-cc93-49ff-9ecb-d12b651850c6" },
+  { id: 3, title: '$15 off any purchase of $100 or more.', expire:"May 31, 2020",brand:"https://firebasestorage.googleapis.com/v0/b/fanzplay.appspot.com/o/brand3.png?alt=media&token=486aa3c5-2e7a-42dc-9993-22056d9749da" }
 ];
 
 class Reward extends Component {
